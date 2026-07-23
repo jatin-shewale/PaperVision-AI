@@ -52,6 +52,12 @@ The final result is presented through an interactive React dashboard containing:
 
 ---
 
+## Demo
+
+<iframe width="640" height="381" src="https://www.loom.com/embed/6789788664ea428783b01194b6d63c3a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+
 ## Why PaperVision AI?
 
 Research papers are often difficult to understand quickly because useful information is distributed across multiple sections:
